@@ -1,1 +1,1 @@
-##* [Linux](https://github.com/amenezesw/notes-studies/blob/master/chapters/notes.md)
+##* [Linux](https://github.com/amenezesw/notes-studies/blob/master/notes-chapters/linux-notes.md)
