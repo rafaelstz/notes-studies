@@ -68,3 +68,14 @@
 	- ######drop 
 	- ######save 
 	<!-- clear -->
+	
+## Trabalhando com Branch
+* #####git branch
+* #####git checkout 
+* #####git checkout -b
+* #####git merge
+	- ######--squase
+* #####git rebase
+	- ######--continue
+* #####git branch -d
+	
