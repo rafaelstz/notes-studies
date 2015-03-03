@@ -9,3 +9,8 @@
 * #####git init
 
 	> Lorem ipsum dolor.
+	
+##Colocando arquivos no índice
+* #####git status
+
+	> Lorem ipsum dolor.
