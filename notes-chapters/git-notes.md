@@ -58,3 +58,13 @@
 	- ######--reflog
 	- ######--graph
 		<!-- merge -->
+
+## Guardar arquivos
+* #####git stash
+	- ######list
+	- ######apply
+	- ######apply 
+	- ######pop
+	- ######drop 
+	- ######save 
+	<!-- clear -->
