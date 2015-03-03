@@ -33,3 +33,12 @@
 		> Lorem ipsum dolor.
 		
 		> Lorem ipsum dolor.
+		
+##Criando um commit 
+* #####git commit 
+	- ######-m "comment",--amend,-a
+	> Lorem ipsum dolor.
+
+	> Lorem ipsum dolor.
+
+	> Lorem ipsum dolor.
