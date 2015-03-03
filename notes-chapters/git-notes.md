@@ -21,3 +21,15 @@
 
 * #####git checkout 
 	> Lorem ipsum dolor.
+
+## Adicionar arquivo no índice
+* #####git add 
+	- ######add .
+		> Lorem ipsum dolor.
+
+	- ######-i, -f,  *.extensão
+		> Lorem ipsum dolor.
+
+		> Lorem ipsum dolor.
+		
+		> Lorem ipsum dolor.
