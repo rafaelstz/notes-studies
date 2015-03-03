@@ -18,3 +18,6 @@
 ##Removendo arquivos do ínice
 * #####git rm --chached file
 	> Lorem ipsum dolor.
+
+* #####git checkout 
+	> Lorem ipsum dolor.
