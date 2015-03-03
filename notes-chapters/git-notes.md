@@ -4,3 +4,8 @@
 
 ####Verificando a suas configurações
  	> cat ~/.gitconfig
+
+##Iniciando o Git
+* #####git init
+
+	> Lorem ipsum dolor.
