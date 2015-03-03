@@ -51,3 +51,10 @@
 	> Lorem ipsum dolor.
 
 	> Lorem ipsum dolor.
+
+## Visualizar todos commit
+* #####git log 
+	- ######--stat
+	- ######--reflog
+	- ######--graph
+		<!-- merge -->
