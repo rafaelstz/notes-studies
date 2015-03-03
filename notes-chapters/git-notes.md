@@ -33,10 +33,19 @@
 		> Lorem ipsum dolor.
 		
 		> Lorem ipsum dolor.
-		
+
 ##Criando um commit 
 * #####git commit 
 	- ######-m "comment",--amend,-a
+	> Lorem ipsum dolor.
+
+	> Lorem ipsum dolor.
+
+	> Lorem ipsum dolor.
+
+##Destruindo commits
+* #####git reset HEAD
+	- ######~1, --hard, --soft
 	> Lorem ipsum dolor.
 
 	> Lorem ipsum dolor.
