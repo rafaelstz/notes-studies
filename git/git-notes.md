@@ -1,81 +1,107 @@
-##Configurações inicial do git - definindo nome e email
- - #####git-config --global user.name "name"
- - #####git-config --global user.email "email"
+# Configurações inicial do git
 
-####Verificando a suas configurações
- 	> cat ~/.gitconfig
+## Definindo nome e email
 
-##Iniciando o Git
-* #####git init
+```sh
+      git-config --global user.name "name"
+      git-config --global user.email "email"
+```
 
-	> Lorem ipsum dolor.
+#### Verificando a suas configurações
+ 
+```sh
+    cat ~/.gitconfig
+```
 
-##Colocando arquivos no índice
-* #####git status
+## Iniciando o Git
 
-	> Lorem ipsum dolor.
+```sh
+    git init
+```
 
-##Removendo arquivos do ínice
-* #####git rm --chached file
-	> Lorem ipsum dolor.
+## Colocando arquivos no índice
 
-* #####git checkout 
-	> Lorem ipsum dolor.
+```sh
+    git status
+```
+
+## Removendo arquivos do ínice
+
+```sh
+    git rm --chached file
+    git checkout 
+```
 
 ## Adicionar arquivo no índice
-* #####git add 
-	- ######add .
-		> Lorem ipsum dolor.
 
-	- ######-i, -f,  *.extensão
-		> Lorem ipsum dolor.
+```sh
+    git add .
+```
 
-		> Lorem ipsum dolor.
-		
-		> Lorem ipsum dolor.
+> - -i
+> - -f
+> - *.extensão
 
-##Criando um commit 
-* #####git commit 
-	- ######-m "comment",--amend,-a
-	> Lorem ipsum dolor.
+## Criando um commit 
 
-	> Lorem ipsum dolor.
+```sh
+git commit 
+```
+>  - -m "comment",--amend,-a
 
-	> Lorem ipsum dolor.
+## Destruindo commits
 
-##Destruindo commits
-* #####git reset HEAD
-	- ######~1, --hard, --soft
-	> Lorem ipsum dolor.
+```sh
+git reset HEAD
+```
 
-	> Lorem ipsum dolor.
-
-	> Lorem ipsum dolor.
+> - ~1
+> - --hard
+> - --soft
 
 ## Visualizar todos commit
-* #####git log 
-	- ######--stat
-	- ######--reflog
-	- ######--graph
-		<!-- merge -->
+
+```sh
+    git log 
+```
+
+> - --stat
+> - --reflog
+> - --graph
 
 ## Guardar arquivos
-* #####git stash
-	- ######list
-	- ######apply
-	- ######apply 
-	- ######pop
-	- ######drop 
-	- ######save 
-	<!-- clear -->
+
+```sh
+git stash
+```
+
+>	- list
+>	- apply
+>	- apply 
+>   -  pop
+>   -  drop 
+>   -  save 
 	
 ## Trabalhando com Branch
-* #####git branch
-* #####git checkout 
-* #####git checkout -b
-* #####git merge
-	- ######--squase
-* #####git rebase
-	- ######--continue
-* #####git branch -d
+
+```sh
+    git branch
+    git checkout 
+    git checkout -b
+```
+```sh
+    git merge
+```
+> - --squase
+> 
+
+```sh
+git rebase
+```
+
+> - --continue
+
+```sh
+    git branch -d
+```
 	
